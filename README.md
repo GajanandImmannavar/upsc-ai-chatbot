@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent Search Suggestion Bot
 
 An intelligent AI-based search suggestion bot that handles spelling mistakes,
@@ -149,3 +150,7 @@ python app.py
 Gajanand Immannavar
 AI / ML & Full Stack Developer
 UPSC + AI Learning Project
+=======
+# upsc-ai-chatbot
+UPSC Knowledge Assistant is an AI-powered educational chatbot designed for UPSC aspirants. It provides accurate, structured, and exam-oriented answers across all subjects using NCERT textbooks, Wikipedia (overview only), and official Indian government sources.
+>>>>>>> b130dc05913ad382f98372fcaef50b7a6fa7fb00
